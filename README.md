@@ -1,16 +1,20 @@
-## Hi there 👋
+<!-- Clean and direct header -->
+# Hi, I'm Samuel 👋
 
-<!--
-**samuelbruno33/samuelbruno33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<!-- GitHub Analytics Section -->
+### 📊 Profile Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <!-- Main Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=samuelbruno33&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbruno33&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" width="48%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <!-- Activity Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelbruno33&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
+</p>
