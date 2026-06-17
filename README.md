@@ -27,8 +27,8 @@
 <p align="center">
   <!-- Dynamic picture element to handle light and dark mode automatically -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IL_TUO_USERNAME/IL_TUO_USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IL_TUO_USERNAME/IL_TUO_USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/IL_TUO_USERNAME/IL_TUO_USERNAME/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samuelbruno33/samuelbruno33/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samuelbruno33/samuelbruno33/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/samuelbruno33/samuelbruno33/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
