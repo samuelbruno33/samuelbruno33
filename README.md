@@ -18,3 +18,17 @@
   <!-- Activity Streak Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelbruno33&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
 </p>
+
+---
+
+<!-- Contribution Snake Section -->
+### 🐍 My Contribution Snake
+
+<p align="center">
+  <!-- Dynamic picture element to handle light and dark mode automatically -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IL_TUO_USERNAME/IL_TUO_USERNAME/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IL_TUO_USERNAME/IL_TUO_USERNAME/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/IL_TUO_USERNAME/IL_TUO_USERNAME/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
