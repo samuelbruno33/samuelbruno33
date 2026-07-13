@@ -1,32 +1,33 @@
 <!-- Clean and direct header -->
 # Hi, I'm Samuel 👋
 
----
-
-### 📊 Profile Analytics
-
-<p align="center">
-   <!-- Main Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=samuelbruno33&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="195" alt="GitHub Stats" />
-   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbruno33&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" height="195" alt="Top Languages" />
+<!-- Lightweight typing animation: retro terminal style -->
+<!-- Customize 'lines' to change the text; 'color' sets the text color (neon green) -->
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=24&pause=1000&color=0F0&width=600&lines=Old+school+nerd.;Building+stuff...+or+breaking+it." alt="Typing SVG" />
 </p>
-
-<!-- <p align="center"> -->
-  <!-- Activity Streak Card -->
- <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelbruno33&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
-</p> -->
 
 ---
 
-<!-- Contribution Snake Section -->
-### 🐍 My Contribution Snake
+### 🕹️ Retro Contribution
 
-<p align="center">
-  <!-- Dynamic picture element to handle light and dark mode automatically -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samuelbruno33/samuelbruno33/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samuelbruno33/samuelbruno33/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/samuelbruno33/samuelbruno33/output/github-contribution-grid-snake.svg">
-  </picture>
+<!-- Minimalist Pac-Man GIF to replace the heavy snake -->
+<p align="left">
+  <img src="https://raw.githubusercontent.com/guilhermepinto/guilhermepinto/master/assets/images/pacman.gif" width="100%" alt="Pac-Man Eater" />
 </p>
+
+---
+
+### 🛠️ Tech Stack
+
+<!-- Compact, fast-loading badges for your specific skills -->
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/VHDL-000000?style=for-the-badge&logo=fpga&logoColor=white" alt="VHDL" />
+  <img src="https://img.shields.io/badge/FreeRTOS-20232A?style=for-the-badge&logo=rtos&logoColor=2298F3" alt="FreeRTOS" />
+  <img src="https://img.shields.io/badge/ARM_Assembly-0091BD?style=for-the-badge&logo=arm&logoColor=white" alt="ARM" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+---
