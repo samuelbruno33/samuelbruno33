@@ -2,31 +2,38 @@
 # Hi, I'm Samuel 👋
 
 <!-- Lightweight typing animation: retro terminal style -->
-<!-- Customize 'lines' to change the text; 'color' sets the text color (neon green) -->
+<!-- You can customize the text in the 'lines' parameter -->
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=24&pause=1000&color=0F0&width=600&lines=Old+school+nerd.;Building+stuff...+or+breaking+it." alt="Typing SVG" />
 </p>
 
 ---
 
-### 🕹️ Retro Contribution
+### 🕹️ Retro Zone
 
-<!-- Minimalist Pac-Man GIF to replace the heavy snake -->
+<!-- Lightweight, fast-loading Pac-Man GIF from a stable server -->
 <p align="left">
-  <img src="https://raw.githubusercontent.com/guilhermepinto/guilhermepinto/master/assets/images/pacman.gif" width="100%" alt="Pac-Man Eater" />
+  <img src="https://media.giphy.com/media/xT0GqfvuVpNqEf3z2w/giphy.gif" width="250" alt="Pac-Man" />
 </p>
 
 ---
 
 ### 🛠️ Tech Stack
 
-<!-- Compact, fast-loading badges for your specific skills -->
+<!-- Group 1: Languages and Hardware Description -->
 <p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/VHDL-000000?style=for-the-badge&logo=fpga&logoColor=white" alt="VHDL" />
+  <img src="https://img.shields.io/badge/Assembly-4D4D4D?style=for-the-badge" alt="Assembly" />
+  <img src="https://img.shields.io/badge/VHDL-0A0A0A?style=for-the-badge" alt="VHDL" />
+  <img src="https://img.shields.io/badge/Verilog-123456?style=for-the-badge" alt="Verilog" />
+</p>
+
+<!-- Group 2: Architectures, RTOS & Tools -->
+<p align="left">
+  <img src="https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white" alt="ARM" />
+  <img src="https://img.shields.io/badge/RISC--V-2C2C2C?style=for-the-badge&logo=riscv&logoColor=white" alt="RISC-V" />
   <img src="https://img.shields.io/badge/FreeRTOS-20232A?style=for-the-badge&logo=rtos&logoColor=2298F3" alt="FreeRTOS" />
-  <img src="https://img.shields.io/badge/ARM_Assembly-0091BD?style=for-the-badge&logo=arm&logoColor=white" alt="ARM" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
