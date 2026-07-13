@@ -9,15 +9,6 @@
 
 ---
 
-### 🕹️ Retro Zone
-
-<!-- Lightweight, fast-loading Pac-Man GIF from a stable server -->
-<p align="left">
-  <img src="https://media.giphy.com/media/xT0GqfvuVpNqEf3z2w/giphy.gif" width="250" alt="Pac-Man" />
-</p>
-
----
-
 ### 🛠️ Tech Stack
 
 <!-- Group 1: Languages and Hardware Description -->
